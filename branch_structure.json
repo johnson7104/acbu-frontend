@@ -1,0 +1,21 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "origin",
+    "security/issue-986-w10-f-010-no-csp-security-headers-despite-csp",
+    "security/issue-988-w10-f-012-dev-wallet-plaintext-fallback"
+  ],
+  "parent": {
+    "dev": null,
+    "origin": "dev",
+    "security/issue-986-w10-f-010-no-csp-security-headers-despite-csp": "dev",
+    "security/issue-988-w10-f-012-dev-wallet-plaintext-fallback": "dev"
+  },
+  "order": [
+    "dev",
+    "origin",
+    "security/issue-986-w10-f-010-no-csp-security-headers-despite-csp",
+    "security/issue-988-w10-f-012-dev-wallet-plaintext-fallback"
+  ]
+}
